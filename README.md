@@ -1,0 +1,2 @@
+This is a website for lasagna recipes.
+While making this website, i've learned how to create links to other pages on my own website and how to write a meaningful commit message as well as when&how to commit.
