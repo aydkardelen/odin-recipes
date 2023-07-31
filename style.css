@@ -1,0 +1,27 @@
+.header{
+    color:rgb(233, 166, 42);
+    text-align:center;
+    padding: 50px;
+    font-size: 30px;
+    background-image: url(https://i0.wp.com/post.greatist.com/wp-content/uploads/sites/2/2022/02/GRT-lasagna-1296x728-header.jpg?w=1155&h=1528);
+}
+
+body{
+    text-align: left;
+}
+
+.container{
+    display: flex;
+}
+
+.box-1{
+    height: 900px;
+    width: 500px;
+    background-color: rgb(240, 220, 137);
+}
+
+.box-2{
+    height: 900px;
+    width: 500px;
+    background-color: blanchedalmond;
+}
