@@ -15,11 +15,11 @@ body{
     display: flex;
     margin: 100;
     padding: 100;
+    justify-content: space-around;
 }
 
 .box-1{
     background-color: rgb(240, 220, 137);
-    display: inline-block;
     width: 450px;
     height: 800px;
     padding: 18px;
